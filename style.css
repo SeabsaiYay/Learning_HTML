@@ -57,6 +57,8 @@ a:hover{
 .logo:hover{
     cursor: default;
 }
+
+
 #mobile-nav{
     display: none;
 }
